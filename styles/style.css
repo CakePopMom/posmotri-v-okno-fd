@@ -123,6 +123,7 @@ ol {
   text-overflow: ellipsis;
   white-space: nowrap;
   width: 194px;
+  margin-bottom: 6px;
 }
 
 .content__card-link {
