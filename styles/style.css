@@ -135,7 +135,7 @@ ol {
 }
 
 .content__card-link:hover {
-  text-transform: underline;
+  text-decoration: underline;
 }
 
 .content__card-link:active {
@@ -229,7 +229,7 @@ ol {
   font-size: 18px;
   font-weight: 400;
   appearance: none;
-  color: #FFFFFFB2;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .search-form__textfield:focus {
